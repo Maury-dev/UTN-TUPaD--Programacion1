@@ -5,7 +5,7 @@ Tecnicatura Universitaria en Programación
 ✨ Estudiante
 Nombre: Mauricio Fernandez
 Comisión: Ag25-1C-11
-📂 Descripción del Repositorio
+📂 Descripción del Repositorio:
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1.
 
 📌 Estructura del repositorio:
